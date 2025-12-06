@@ -1,0 +1,7 @@
+ultralytics
+supervision
+opencv-python-headless
+streamlit
+numpy
+pandas
+altair

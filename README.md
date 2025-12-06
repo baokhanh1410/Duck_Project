@@ -15,7 +15,7 @@ Hệ thống Computer Vision giám sát sức khỏe đàn vịt, phân loại h
    cd Duck_Project
 
 2. Install dependencies
-    pip install -r requirements.txte
+    pip install -r requirements.txt
 
 3. Run App
     streamlit run app.py

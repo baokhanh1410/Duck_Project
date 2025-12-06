@@ -21,7 +21,7 @@ st.sidebar.header("Cấu hình Model")
 model_conf = st.sidebar.slider("Confidence Threshold", 0.0, 1.0, 0.25, 0.05)
 
 # Đường dẫn model 
-MODEL_PATH = "models/best.onnx"
+MODEL_PATH = "models/best.pt"
 
 # --- MAIN APP ---
 @st.cache_resource

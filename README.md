@@ -17,8 +17,8 @@ Mô hình **YOLOv12** được huấn luyện và tối ưu hóa **chuyên biệ
 ## Installation
 
 1. Clone repo:
-   ```git clone https://github.com/baokhanh1410/Duck_Project.git```
-   ```cd Duck_Project```
+   ```git clone https://github.com/baokhanh1410/Duck_Project.git
+   cd Duck_Project```
 2. Install dependencies
    ```pip install -r requirements.txt```
 
